@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For FX-120i
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FX_120i KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setStream KEYWORD2
+reZero KEYWORD2
+on KEYWORD2
+off KEYWORD2
+readIdNumber KEYWORD2
+readSerialNumber KEYWORD2
+readModelName KEYWORD2
+readTareWeight KEYWORD2
+readImmedieateWeight KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

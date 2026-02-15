@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For ColorButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ColorButton KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+colorButton KEYWORD2
+red KEYWORD2
+orange KEYWORD2
+yellow KEYWORD2
+green KEYWORD2
+blue KEYWORD2
+indigo KEYWORD2
+violet KEYWORD2
+white KEYWORD2
+off KEYWORD2
+debounce KEYWORD2
+illuminate KEYWORD2
+setColors KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################

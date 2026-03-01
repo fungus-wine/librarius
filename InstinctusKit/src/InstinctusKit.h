@@ -1,11 +1,15 @@
-#ifndef BALANCER_KIT_H
-#define BALANCER_KIT_H
+#ifndef INSTINCTUS_KIT_H
+#define INSTINCTUS_KIT_H
 
-// Main header file for BalancerKit library
-// Include all components of the balancer kit system
+// Main header file for InstinctusKit library
+// Include all components of the instinctus system
 
-#include "Config.h"
-#include "HardwareConfig.h"
+#include "config/CoordinateTransform.h"
+#include "config/BoardConfig.h"
+#include "config/IMUConfig.h"
+#include "config/ToFConfig.h"
+#include "config/MotorConfig.h"
+#include "config/BalanceConfig.h"
 #include "EventQueue.h"
 
-#endif // BALANCER_KIT_H
+#endif // INSTINCTUS_KIT_H
